@@ -1,0 +1,3 @@
+tagbar.vmb: call delete('/home/pat/.vim/autoload/tagbar.vim')|call delete('/home/pat/.vim/doc/tagbar.txt')|call delete('/home/pat/.vim/plugin/tagbar.vim')|call delete('/home/pat/.vim/syntax/tagbar.vim')
+tagbar.vmb: call delete('/home/pat/.vim/autoload/tagbar.vim')|call delete('/home/pat/.vim/doc/tagbar.txt')|call delete('/home/pat/.vim/plugin/tagbar.vim')|call delete('/home/pat/.vim/syntax/tagbar.vim')
+colourscheme_bandit.vba: call delete('/home/pat/.vim/colors/bandit.vim')|call delete('/home/pat/.vim/syntax/colours_bandit.vim')|call delete('/home/pat/.vim/ftplugin/colours_bandit.vim')

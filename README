@@ -1,0 +1,9 @@
+
+This is my custom ~/.vim folder
+
+
+required debian packages:
+    + vim (of course...)
+    + gvim (for vim-server)
+    + ctags ( <F8> and <F9> shortcut)
+    + libxml2 {xmllint} (<F2> shortcut)

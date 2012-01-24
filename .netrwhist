@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/pat/cgi/vuln'
+let g:netrw_dirhist_2='/home/pat/cgi/vuln/baseConnaissance'
+let g:netrw_dirhist_3='/home/pat/Téléchargements/zsh-lovers/zsh_people/bruno_bonfils/rc'
+let g:netrw_dirhist_4='/home/pat/.oh-my-zsh/plugins'
+let g:netrw_dirhist_5='/home/pat/.oh-my-zsh/tools'
