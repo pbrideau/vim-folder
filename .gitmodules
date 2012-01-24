@@ -1,0 +1,3 @@
+[submodule "bundle/bash-support"]
+	path = bundle/bash-support
+	url = git://github.com/vim-scripts/bash-support.vim.git
