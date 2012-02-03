@@ -85,8 +85,9 @@ set laststatus=2
 set statusline=%f%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]%=[POS=%04l,%04v][%p%%]\ [LEN=%L]
 " COLORS
 hi Statusline ctermfg=2* ctermbg=0
-au InsertEnter * hi StatusLine ctermfg=1 ctermbg=7
-au InsertLeave * hi StatusLine ctermfg=2 ctermbg=7 gui=bold,reverse
+au InsertEnter * hi StatusLine ctermfg=1 ctermbg=0
+au InsertLeave * hi StatusLine ctermfg=2 ctermbg=0 gui=bold,reverse
+
 set updatetime=50
 
 
